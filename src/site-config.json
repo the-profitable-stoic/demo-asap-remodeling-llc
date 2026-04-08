@@ -1,0 +1,553 @@
+{
+  "business": {
+    "name": "ASAP Remodeling LLC",
+    "phone": "+14026090552",
+    "category": "home remodeler",
+    "city": "Omaha",
+    "state": "NE"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Omaha's Trusted Remodeling Experts",
+      "heroSubline": "Transforming homes across Omaha with quality craftsmanship and unwavering dedication. Your vision, our expertise – a perfect partnership.",
+      "aboutTitle": "Built on Integrity, Driven by Results",
+      "aboutText": [
+        "ASAP Remodeling LLC started with a simple goal: to provide Omaha homeowners with reliable and exceptional remodeling services. Frustrated by the lack of transparency and quality in the industry, we set out to build a company founded on honesty, hard work, and a commitment to exceeding expectations.",
+        "We believe in a collaborative approach, working closely with our clients to understand their unique needs and vision. From initial consultation to final walkthrough, we prioritize clear communication, meticulous attention to detail, and a relentless pursuit of perfection. We're not just building structures; we're building lasting relationships.",
+        "As a locally owned and operated business, we're deeply invested in the Omaha community. We source materials from local suppliers whenever possible and actively support local initiatives. We're proud to contribute to the growth and vitality of the city we call home."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Craftsmen",
+          "description": "Our team brings years of expertise to every project, ensuring superior quality and lasting results."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates and keep you informed every step of the way."
+        },
+        {
+          "title": "On-Time Completion",
+          "description": "We understand the importance of deadlines and strive to complete projects efficiently and within the agreed-upon timeframe."
+        },
+        {
+          "title": "Dedicated Project Management",
+          "description": "A dedicated project manager will oversee your project, ensuring seamless communication and coordination."
+        }
+      ],
+      "ctaHeadline": "Ready to Reimagine Your Home?",
+      "ctaSubline": "Contact ASAP Remodeling today for a free consultation and let's bring your dream home to life."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Omaha home with our expert remodeling services.",
+        "description": "The kitchen is the heart of any home, and a well-designed kitchen can significantly enhance your lifestyle and property value. At ASAP Remodeling, we specialize in creating functional and beautiful kitchens tailored to your specific needs and preferences. Whether you're looking for a complete overhaul or a simple update, we've got you covered. From cabinet replacement and countertop installation to appliance upgrades and custom lighting, we handle every aspect of your kitchen remodeling project with precision and care. We understand the unique challenges of Omaha homes, from older properties in Dundee to modern builds in Elkhorn, and we tailor our approach accordingly. Our experienced team works closely with you to design a kitchen that reflects your personal style and meets your functional requirements. We source high-quality materials from trusted suppliers, ensuring durability and longevity. We also handle all necessary permits and inspections, so you can relax and enjoy the transformation. Let us help you create the kitchen of your dreams, a space where you can cook, entertain, and create lasting memories.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision, budget, and timeline to create a customized design plan.",
+          "Step 2: Material Selection – We help you choose the perfect materials, from cabinets and countertops to flooring and fixtures.",
+          "Step 3: Demolition and Construction – Our skilled craftsmen handle all demolition and construction work with minimal disruption.",
+          "Step 4: Finishing Touches – We complete the project with meticulous attention to detail, ensuring a flawless finish."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and efficiency",
+          "Enhanced aesthetics and personal style",
+          "A more enjoyable cooking and entertaining experience"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical kitchen remodel take?",
+            "answer": "The duration of a kitchen remodel varies depending on the scope of the project, but typically it takes between 4 to 8 weeks. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "While it's possible to live in your home during a kitchen remodel, it can be disruptive. We recommend considering alternative living arrangements if possible, especially during the demolition phase."
+          },
+          {
+            "question": "Will you handle the necessary permits and inspections?",
+            "answer": "Yes, we take care of all necessary permits and inspections to ensure your project meets all local building codes and regulations."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Upgrade your bathroom with our comprehensive remodeling services, tailored to Omaha homes.",
+        "description": "Your bathroom should be a sanctuary, a place where you can relax and rejuvenate. If your current bathroom is outdated, cramped, or simply doesn't meet your needs, ASAP Remodeling can help. We offer comprehensive bathroom remodeling services, from minor updates to complete transformations. We understand the unique challenges of Omaha bathrooms, from dealing with moisture issues to maximizing space in older homes. Our team will work with you to create a bathroom that is both functional and beautiful. We handle all aspects of the project, including plumbing, electrical, tiling, and fixture installation. We use high-quality materials that are durable and easy to maintain, ensuring your new bathroom will stand the test of time. Whether you're dreaming of a spa-like retreat or a practical family bathroom, we can bring your vision to life. We pay close attention to detail, ensuring every element of your bathroom is perfectly executed.",
+        "process": [
+          "Step 1: Design Consultation: Discuss your vision, needs, and budget.",
+          "Step 2: Material Selection: Choose from a wide range of tiles, fixtures, and finishes.",
+          "Step 3: Demolition and Prep: Careful removal of existing fixtures and preparation of the space.",
+          "Step 4: Installation: Expert installation of plumbing, electrical, and new features.",
+          "Step 5: Finishing Touches: Painting, caulking, and final inspection for a perfect result."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and comfort",
+          "Enhanced aesthetics and relaxation",
+          "Water conservation through efficient fixtures"
+        ],
+        "faq": [
+          {
+            "question": "What are the most popular bathroom remodeling trends in Omaha?",
+            "answer": "We're seeing a lot of interest in walk-in showers, heated floors, and smart technology integration in bathrooms. These features add both luxury and convenience."
+          },
+          {
+            "question": "How do you handle moisture issues in bathrooms?",
+            "answer": "We use moisture-resistant materials and proper ventilation techniques to prevent mold and mildew growth, ensuring a healthy and durable bathroom environment."
+          },
+          {
+            "question": "Can you help me maximize space in a small bathroom?",
+            "answer": "Absolutely! We have creative solutions for small bathrooms, such as wall-mounted vanities, corner showers, and strategic storage options."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Unlock the full potential of your Omaha home with our professional basement finishing services.",
+        "description": "Don't let your basement be wasted space. ASAP Remodeling can transform your unfinished basement into a valuable living area, adding square footage and functionality to your home. Whether you're looking for a home theater, a game room, a home office, or an extra bedroom, we can bring your vision to life. We understand the unique challenges of Omaha basements, including moisture control and proper insulation. Our team will ensure your finished basement is comfortable, safe, and free from mold and mildew. We handle all aspects of the project, including framing, drywall, electrical, plumbing, and flooring. We use high-quality materials that are durable and moisture-resistant, ensuring your finished basement will stand the test of time. We also handle all necessary permits and inspections, so you can relax and enjoy the transformation. From design to completion, we'll work with you every step of the way to create a basement that meets your specific needs and enhances your lifestyle.",
+        "process": [
+          "Step 1: Initial Consultation & Design: Discuss your needs, budget and design preferences.",
+          "Step 2: Moisture Assessment & Remediation: Address any existing moisture issues to ensure a dry and healthy basement.",
+          "Step 3: Framing & Insulation: Construct the framework and insulate for energy efficiency and comfort.",
+          "Step 4: Electrical & Plumbing: Install necessary wiring and plumbing for your desired layout.",
+          "Step 5: Finishing Touches: Drywall, flooring, painting, and final inspections for a beautiful finished space."
+        ],
+        "benefits": [
+          "Increased living space",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Customized living area tailored to your needs"
+        ],
+        "faq": [
+          {
+            "question": "How do you address moisture issues in basements?",
+            "answer": "We conduct thorough moisture assessments and implement solutions such as waterproofing membranes, sump pumps, and proper ventilation to prevent moisture problems."
+          },
+          {
+            "question": "Do I need a permit to finish my basement?",
+            "answer": "Yes, a permit is required for basement finishing in Omaha. We will handle the permit application process for you."
+          },
+          {
+            "question": "What type of flooring is best for basements?",
+            "answer": "We recommend using moisture-resistant flooring options such as engineered wood, tile, or epoxy coatings for basements."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Enhance your outdoor living space with our custom deck and patio construction services in Omaha.",
+        "description": "Extend your living space outdoors with a custom deck or patio from ASAP Remodeling. We specialize in designing and building beautiful and functional outdoor spaces that complement your home and enhance your lifestyle. Whether you're looking for a spacious deck for entertaining, a cozy patio for relaxing, or an outdoor kitchen for grilling, we can bring your vision to life. We understand the unique challenges of Omaha's climate, from harsh winters to hot summers, and we use durable materials that can withstand the elements. Our team will work with you to design an outdoor space that meets your specific needs and preferences. We handle all aspects of the project, including design, permitting, construction, and finishing. We use high-quality materials that are both beautiful and durable, ensuring your new deck or patio will provide years of enjoyment. Let us help you create the perfect outdoor oasis for your Omaha home.",
+        "process": [
+          "Step 1: Design Consultation: Discuss your vision, budget, and site conditions.",
+          "Step 2: Material Selection: Choose from a variety of decking materials, pavers, and outdoor features.",
+          "Step 3: Permitting: Obtain necessary permits and approvals.",
+          "Step 4: Construction: Expertly build your deck or patio according to the design.",
+          "Step 5: Finishing Touches: Add railings, steps, lighting, and landscaping for a complete outdoor living space."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Expanded living space",
+          "Enhanced outdoor entertaining",
+          "Improved curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What type of decking material is best for Omaha's climate?",
+            "answer": "Composite decking is a popular choice for Omaha due to its durability, low maintenance, and resistance to moisture and pests. Cedar is also a good option, but requires more maintenance."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio?",
+            "answer": "Yes, a permit is typically required for deck and patio construction in Omaha. We will handle the permit application process for you."
+          },
+          {
+            "question": "Can you incorporate a fire pit or outdoor kitchen into my deck or patio design?",
+            "answer": "Absolutely! We can design and build custom fire pits, outdoor kitchens, and other features to create the ultimate outdoor living space."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Protect and beautify your Omaha home with our professional siding replacement services.",
+        "description": "Your home's siding is its first line of defense against the elements. If your siding is damaged, outdated, or simply not performing as it should, ASAP Remodeling can help. We offer professional siding replacement services, using high-quality materials that are both durable and aesthetically pleasing. We understand the unique challenges of Omaha's climate, from harsh winters to severe thunderstorms, and we use siding that can withstand the elements. Our team will work with you to choose the perfect siding for your home, taking into account your style, budget, and performance requirements. We handle all aspects of the project, including removal of old siding, installation of new siding, and disposal of debris. We use experienced installers who are committed to quality workmanship and attention to detail. Protect your investment and enhance your curb appeal with new siding from ASAP Remodeling.",
+        "process": [
+          "Step 1: Inspection and Consultation: Assess your current siding and discuss your options.",
+          "Step 2: Material Selection: Choose from a variety of siding materials, colors, and styles.",
+          "Step 3: Removal of Old Siding: Carefully remove and dispose of your existing siding.",
+          "Step 4: Installation of New Siding: Install new siding with precision and attention to detail.",
+          "Step 5: Cleanup and Inspection: Thoroughly clean the job site and inspect the finished product."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Increased home value",
+          "Enhanced protection from the elements",
+          "Reduced energy costs"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of replacing my siding?",
+            "answer": "Replacing your siding can improve your home's curb appeal, increase its value, protect it from the elements, and reduce your energy costs."
+          },
+          {
+            "question": "What type of siding is best for Omaha's climate?",
+            "answer": "Vinyl siding is a popular choice for Omaha due to its durability, low maintenance, and affordability. Fiber cement siding is also a good option, but it is more expensive."
+          },
+          {
+            "question": "How long does siding replacement typically take?",
+            "answer": "The duration of siding replacement depends on the size and complexity of the project, but it typically takes between 1 to 2 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "window-door-replacement",
+        "name": "Window & Door Replacement",
+        "shortDescription": "Enhance your Omaha home's energy efficiency and aesthetics with new windows and doors.",
+        "description": "Upgrade your home's windows and doors with ASAP Remodeling. We offer a wide selection of energy-efficient windows and doors that can improve your home's comfort, aesthetics, and value. Whether you're looking to replace old, drafty windows or upgrade to a more stylish front door, we have the perfect solution for you. We understand the unique challenges of Omaha's climate, from extreme temperatures to strong winds, and we offer windows and doors that are designed to withstand the elements. Our team will work with you to choose the perfect windows and doors for your home, taking into account your style, budget, and energy efficiency goals. We handle all aspects of the project, including removal of old windows and doors, installation of new windows and doors, and disposal of debris. We use experienced installers who are committed to quality workmanship and attention to detail. Improve your home's comfort and energy efficiency with new windows and doors from ASAP Remodeling.",
+        "process": [
+          "Step 1: Consultation: Discuss your needs and preferences with our experts.",
+          "Step 2: Selection: Choose from a wide variety of window and door styles and materials.",
+          "Step 3: Measurement: Accurate measurements to ensure a perfect fit.",
+          "Step 4: Installation: Professional installation by our experienced team.",
+          "Step 5: Finishing: Sealing and caulking for optimal energy efficiency."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Increased home value",
+          "Enhanced comfort",
+          "Reduced noise"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of replacing my windows and doors?",
+            "answer": "Replacing your windows and doors can improve your home's energy efficiency, increase its value, enhance its comfort, and reduce noise."
+          },
+          {
+            "question": "What type of windows are best for Omaha's climate?",
+            "answer": "Energy-efficient windows with low-E coatings and argon gas fills are ideal for Omaha's climate. Vinyl windows are a popular choice due to their durability and affordability."
+          },
+          {
+            "question": "How long does window and door replacement typically take?",
+            "answer": "The duration of window and door replacement depends on the number of windows and doors being replaced, but it typically takes between 1 to 3 days."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Omaha",
+        "slug": "omaha-ne",
+        "state": "NE",
+        "content": "ASAP Remodeling LLC is proud to offer comprehensive remodeling services to homeowners in Omaha, Nebraska. From kitchen and bathroom renovations to whole-house remodels, we have the expertise and experience to bring your vision to life. We understand the unique architectural styles and building codes prevalent in Omaha, ensuring that your project is completed to the highest standards.\n\nOur team is dedicated to providing exceptional customer service and quality craftsmanship. We work closely with you throughout the entire remodeling process, from initial design to final completion, ensuring your complete satisfaction. We use only the finest materials and employ skilled tradespeople to deliver lasting results that enhance the beauty and value of your home.",
+        "localContext": "Omaha is a vibrant city known for its friendly atmosphere, thriving arts scene, and diverse neighborhoods, each with its unique character.",
+        "nearbyAreas": [
+          "Council Bluffs",
+          "Bellevue",
+          "Papillion"
+        ]
+      },
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-ne",
+        "state": "NE",
+        "content": "ASAP Remodeling LLC extends its remodeling expertise to the residents of Bellevue, Nebraska. We offer a wide range of services, including kitchen and bathroom remodels, basement finishing, and home additions. We are familiar with the specific needs and preferences of Bellevue homeowners, ensuring that your project reflects your individual style and enhances your lifestyle.\n\nWe are committed to providing transparent communication and reliable service. Our team will work closely with you to develop a detailed plan and budget, keeping you informed every step of the way. We are dedicated to exceeding your expectations and creating a space that you will love for years to come.",
+        "localContext": "Bellevue, located just south of Omaha, is a growing community with a strong sense of community and a rich history.",
+        "nearbyAreas": [
+          "Omaha",
+          "Papillion",
+          "La Vista"
+        ]
+      },
+      {
+        "city": "Papillion",
+        "slug": "papillion-ne",
+        "state": "NE",
+        "content": "ASAP Remodeling LLC is your trusted partner for all your remodeling needs in Papillion, Nebraska. Whether you're looking to update your kitchen, renovate your bathroom, or add an addition to your home, we have the skills and resources to deliver exceptional results. We understand the local building codes and regulations in Papillion, ensuring that your project is completed safely and efficiently.\n\nWe take pride in our attention to detail and commitment to quality. Our team will work closely with you to understand your vision and create a design that meets your needs and budget. We use only the highest quality materials and employ experienced tradespeople to ensure that your project is completed to the highest standards.",
+        "localContext": "Papillion is a family-friendly community known for its excellent schools, parks, and recreational opportunities.",
+        "nearbyAreas": [
+          "Bellevue",
+          "La Vista",
+          "Gretna"
+        ]
+      },
+      {
+        "city": "Council Bluffs",
+        "slug": "council-bluffs-ne",
+        "state": "NE",
+        "content": "ASAP Remodeling LLC provides expert remodeling services to Council Bluffs, Iowa, just across the river from Omaha. We handle projects from kitchen and basement renovations to complete home overhauls. We understand the regional architecture and regulations, ensuring projects are up to standard.\n\nWe pride ourselves on clear communication and dependable service. From the first consultation to the finishing touches, we'll keep you informed and involved, ensuring a remodel that matches your vision and budget.",
+        "localContext": "Council Bluffs, IA, offers a unique blend of historical charm and modern amenities, situated right across the Missouri River from Omaha.",
+        "nearbyAreas": [
+          "Omaha",
+          "Carter Lake",
+          "Crescent"
+        ]
+      },
+      {
+        "city": "La Vista",
+        "slug": "la-vista-ne",
+        "state": "NE",
+        "content": "ASAP Remodeling LLC proudly serves La Vista, Nebraska, offering top-quality remodeling services to enhance your home. From kitchen and bathroom upgrades to basement finishing and more, we're dedicated to bringing your vision to life. We understand the local aesthetic and construction standards of La Vista, ensuring your project is completed with precision and care.\n\nWe are committed to delivering exceptional customer service and superior craftsmanship. Our team collaborates closely with you throughout the entire remodeling journey, from initial design to final execution, guaranteeing your complete satisfaction. We source only the finest materials and employ skilled professionals to achieve enduring results that increase the beauty and value of your home.",
+        "localContext": "La Vista is a thriving suburban community known for its family-friendly environment and convenient access to amenities.",
+        "nearbyAreas": [
+          "Papillion",
+          "Ralston",
+          "Omaha"
+        ]
+      },
+      {
+        "city": "Ralston",
+        "slug": "ralston-ne",
+        "state": "NE",
+        "content": "ASAP Remodeling LLC provides comprehensive remodeling services to homeowners in Ralston, Nebraska. We offer a wide array of services, including kitchen and bathroom renovations, basement finishing, and whole-house remodeling. We are knowledgeable about the specific architectural styles and building codes in Ralston, ensuring that your project is completed to the highest standards.\n\nWe are dedicated to providing exceptional customer service and quality workmanship. Our team works closely with you throughout the entire remodeling process, from initial consultation to final completion, ensuring your complete satisfaction. We use only the finest materials and employ skilled tradespeople to deliver lasting results that enhance the beauty and value of your home.",
+        "localContext": "Ralston is a charming city known for its strong sense of community and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Omaha",
+          "La Vista",
+          "Gretna"
+        ]
+      },
+      {
+        "city": "Gretna",
+        "slug": "gretna-ne",
+        "state": "NE",
+        "content": "ASAP Remodeling LLC extends its remodeling services to Gretna, Nebraska, offering expert solutions for all your home improvement needs. Whether you're looking to update your kitchen, remodel your bathroom, or finish your basement, we have the skills and experience to deliver exceptional results. We understand the unique characteristics of homes in Gretna and tailor our services to meet your specific needs.\n\nWe are committed to providing transparent communication and reliable service. Our team will work closely with you to develop a detailed plan and budget, keeping you informed every step of the way. We are dedicated to exceeding your expectations and creating a space that you will love for years to come.",
+        "localContext": "Gretna is a rapidly growing community known for its excellent schools and family-friendly environment.",
+        "nearbyAreas": [
+          "Papillion",
+          "Ralston",
+          "Elkhorn"
+        ]
+      },
+      {
+        "city": "Elkhorn",
+        "slug": "elkhorn-ne",
+        "state": "NE",
+        "content": "ASAP Remodeling LLC is delighted to provide remodeling services to the residents of Elkhorn, Nebraska. We offer comprehensive services, from simple renovations to full-scale remodels. We are well-versed in the architectural trends and building regulations specific to Elkhorn, guaranteeing that your project fulfills our high standards.\n\nOur team is committed to outstanding service and craftsmanship. We closely collaborate with you throughout the remodeling process, from design to completion, to ensure your utmost satisfaction. We utilize top-quality materials and employ skilled professionals to deliver long-lasting results that enhance your home.",
+        "localContext": "Elkhorn, a historic community now part of Omaha, is known for its blend of small-town charm and modern amenities.",
+        "nearbyAreas": [
+          "Omaha",
+          "Bennington",
+          "Waterloo"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "ASAP Remodeling completely transformed our outdated kitchen in our Dundee home! They listened to our ideas, offered great suggestions, and the final result exceeded our expectations. The quality of the workmanship is outstanding, and the entire team was professional and respectful. We highly recommend them!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Basement Finishing",
+        "text": "We hired ASAP Remodeling to finish our basement in Millard, and we're very happy with the results. They turned a dark, unfinished space into a functional family room and home office. There were a few minor delays, but they communicated effectively and addressed any concerns promptly. Overall, a great experience.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 5,
+        "service": "Bathroom Remodel",
+        "text": "ASAP Remodeling did an amazing job remodeling our master bathroom. The design is beautiful, and the quality of the materials is excellent. They were very professional and kept the job site clean throughout the project. We would definitely use them again for future remodeling projects.",
+        "date": "2024-09-12"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "We needed to replace the old, damaged siding on our house after a particularly bad hail storm. ASAP Remodeling provided a competitive quote and completed the work quickly and efficiently. The new siding looks fantastic, and we've already noticed a difference in our energy bills. Great service!",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Sarah L.",
+        "rating": 4,
+        "service": "Deck Construction",
+        "text": "ASAP Remodeling built a beautiful deck in our backyard. It's the perfect space for entertaining and relaxing. The team was professional and courteous, and they completed the project on time and within budget. We had a small issue with a railing, but they came back and fixed it immediately. Would use again.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "Excellent service from start to finish. ASAP Remodeling replaced all the windows in my home. The new windows look great and have made a noticeable difference in the temperature inside, especially during the summer heat. The crew was efficient and clean, and the price was fair. Highly recommended.",
+        "date": "2024-06-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "ASAP Remodeling LLC | Omaha Remodeler",
+        "description": "Omaha's leading home remodeling contractor. Kitchens, bathrooms, basements, siding, decks & more. Free consultations. Call +14026090552"
+      },
+      "about": {
+        "title": "About ASAP Remodeling | Omaha, NE",
+        "description": "Learn about ASAP Remodeling LLC, Omaha's trusted home remodeling experts. Quality craftsmanship, transparent pricing, and dedicated service."
+      },
+      "services": {
+        "title": "Omaha Remodeling Services | ASAP Remodeling",
+        "description": "Comprehensive remodeling services in Omaha, NE. Kitchen remodeling, bathroom renovations, basement finishing & more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact ASAP Remodeling | Omaha, NE",
+        "description": "Contact ASAP Remodeling LLC for your Omaha home remodeling needs. Get a free consultation and estimate. Call +14026090552"
+      },
+      "reviews": {
+        "title": "ASAP Remodeling Reviews | Omaha, NE",
+        "description": "Read reviews for ASAP Remodeling LLC in Omaha, NE. See what our satisfied customers are saying about our remodeling services."
+      },
+      "service-areas": {
+        "title": "ASAP Remodeling Service Areas | Omaha, NE",
+        "description": "ASAP Remodeling LLC provides home remodeling services in Omaha and surrounding areas. Check our service area coverage."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "window-door-replacement": "/images/service-window-door-replacement.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-door-replacement": {
+        "src": "/images/service-window-door-replacement.webp",
+        "srcset": "/images/service-window-door-replacement-400w.webp 400w, /images/service-window-door-replacement-800w.webp 800w, /images/service-window-door-replacement-1200w.webp 1200w, /images/service-window-door-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
